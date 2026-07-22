@@ -41,7 +41,7 @@
 
 ### 🎮 Currently Playing
 
-> *Osu!, Valorant, League of Legend, Roblox, Wuthering wave, Seven knight:Rebirth.*
+> *Osu!, Valorant, League of Legend, Roblox, Wuthering wave, Seven knight:Rebirth*
 
 ---
 
@@ -64,6 +64,6 @@
 
 <div align="center">
 
-*⚡ "Leveling up one commit at a time" ⚡*
+*"I'm gonna hit gamma dan soon!!"*
 
 </div>

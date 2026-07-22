@@ -2,7 +2,7 @@
   
 # ⚔️ xBiCx ⚔️
 
-### `Computer Science Student | Thailand`
+### `Computer Science Student`
 
 
 ---

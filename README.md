@@ -17,7 +17,7 @@
 ║  🎓 Class     : Computer Science Student     ║
 ║  📅 Age       : 21 year old                  ║
 ║  🏆 Rank      : Unrank                       ║
-║  📍 Location  : Thailand                      ║
+║  📍 Location   : Thailand                     ║
 ╚═══════════════════════════════════════════════╝
 ```
 

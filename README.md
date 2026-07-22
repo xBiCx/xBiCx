@@ -53,7 +53,7 @@
 
 ---
 
-### 🏓 Let's Connect!
+### 💬 My Contract
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kittipong.yusupap)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kit._p/)
@@ -64,6 +64,6 @@
 
 <div align="center">
 
-*"I'm gonna hit gamma dan soon!!"*
+*"🔥I'm gonna hit gamma dan soon!!🔥"*
 
 </div>

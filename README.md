@@ -1,13 +1,13 @@
 ```text
 ╔══════════════════════════════════════════════╗
-║               CHARACTER STATUS              ║
+║               CHARACTER STATUS               ║
 ╠══════════════════════════════════════════════╣
-║ Name      : xBiCx                           ║
-║ Class     : Computer Science Student        ║
-║ Title     : Unity Explorer                  ║
-║ Rank      : Silver Developer                ║
-║ Alignment : Lawful Coder                    ║
-║ Location  : Thailand                        ║
+║ Name      : xBiCx                            ║
+║ Class     : Computer Science Student         ║
+║ Title     : Unity Explorer                   ║
+║ Rank      : Silver Developer                 ║
+║ Alignment : Lawful Coder                     ║
+║ Location  : Thailand                         ║
 ╚══════════════════════════════════════════════╝
 ```
 

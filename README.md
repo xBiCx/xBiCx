@@ -4,18 +4,18 @@
 ╠══════════════════════════════════════════════╣
 ║ Name      : xBiCx                            ║
 ║ Class     : Computer Science Student         ║
-║ Title     : Unity Explorer                   ║
-║ Rank      : Silver Developer                 ║
-║ Alignment : Lawful Coder                     ║
+║ Age       : 21 year old                      ║
+║ Rank      : Unrank                           ║
 ║ Location  : Thailand                         ║
 ╚══════════════════════════════════════════════╝
 ```
 
 ```
-HP     ██████████
-MP     █████████░
-EXP    ████████░░
-Coding ██████████
-Coffee █████████░
-Sleep  ██░░░░░░░░
+Coding Languge Status
+            1 2 3 4 5
+Python      ▇▇▇
+C#          ▇▇▇
+Js          ▇▇▇
+PHP         ▇▇
+Typescript  ▇▇▇▇
 ```

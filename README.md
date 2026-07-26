@@ -25,19 +25,16 @@
 
 ---
 
+
 ### 📊 /// HARDWARE & ACTIVITY STATS
 
 <p align="center">
-  <!-- Stat Card ในสไตล์ Dark/Monochrome -->
   <img src="https://github-readme-stats.vercel.app/api?username=xBiCx&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" />
-  &nbsp;
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xBiCx&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=333333&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xBiCx&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=333333&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph สีขาวดำ -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xBiCx&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---

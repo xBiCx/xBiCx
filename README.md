@@ -66,8 +66,8 @@
 <!-- OS & Systems -->
 <p href="#"><b>🖥️ OS / Systems:</b></p>
 <p align="left">
-  <img src="https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---

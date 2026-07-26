@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white&borderColor=333333" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <br/>
   <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />

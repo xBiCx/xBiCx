@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=HI%2C+I'M+xBiCx;Computer+Information+Science" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <code><b>[ NOTIFICATION ]</b> CREATING DIGITAL EXPERIENCE WITH CLEAN CODE & MINIMAL DESIGN</code>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=///%20SYSTEM%20ONLINE&fontSize=18&fontColor=888888&fontAlignY=35" width="100%" />
-</p>
-
 ---
 
 ```text

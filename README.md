@@ -31,6 +31,46 @@
 
 ---
 
+### 🛠️ /// TOOLS & WORKSPACE
+
+<!-- Design Tools -->
+<p href="#"><b>🎨 Design Tools:</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<!-- AI Tools -->
+<p href="#"><b>🤖 AI Tools:</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/CHATGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE_GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/PERPLEXITY-000000?style=for-the-badge&logo=perplexity&logoColor=22B8CF" />
+</p>
+
+<!-- Hosting -->
+<p href="#"><b>🌐 Hosting:</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/GITHUB_PAGES-222222?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<!-- IDEs & Editors -->
+<p href="#"><b>💻 IDEs & Editors:</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VISUAL_STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<!-- OS & Systems -->
+<p href="#"><b>🖥️ OS / Systems:</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+---
 
 ### 📊 /// HARDWARE & ACTIVITY STATS
 

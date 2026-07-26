@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/GOOGLE_GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/PERPLEXITY-000000?style=for-the-badge&logo=perplexity&logoColor=22B8CF" />
-  <img src="https://img.shields.io/badge/WARP-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
 </p>
 
 <!-- Hosting -->
@@ -62,6 +61,8 @@
   <img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/VISUAL_STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/WARP-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRAE-111111?style=for-the-badge&logo=code&logoColor=10B981" />
 </p>
 
 <!-- OS & Systems -->

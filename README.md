@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/GOOGLE_GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/PERPLEXITY-000000?style=for-the-badge&logo=perplexity&logoColor=22B8CF" />
+  <img src="https://img.shields.io/badge/WARP-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
 </p>
 
 <!-- Hosting -->

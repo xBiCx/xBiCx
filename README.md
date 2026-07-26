@@ -25,14 +25,6 @@
 
 ---
 
-### 🟢 /// SYSTEM STATUS
-[+] NAME      : xBiCx
-[+] ROLE      : C# & .NET Developer / CS Student
-[+] FOCUS     : Backend APIs / Desktop App / Game Dev
-[+] STATUS    : Transitioning from C++ to C# Ecosystem
-
----
-
 ### 📊 /// HARDWARE & ACTIVITY STATS
 
 <p align="center">

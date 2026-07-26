@@ -6,7 +6,7 @@
 
 ---
 
-### ⚙️ /// TECH MATRIX
+### Tech stacks
 
 <p align="left">
   <!-- Languages -->
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ /// TOOLS & WORKSPACE
+### Tools & Workspace
 
 <!-- Design Tools -->
 <p href="#"><b>🎨 Design Tools:</b></p>
@@ -74,7 +74,7 @@
 
 ---
 
-### 📊 /// HARDWARE & ACTIVITY STATS
+### Hardware and Activity stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xBiCx&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" />
@@ -87,7 +87,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xBiCx&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -95,7 +95,7 @@
 
 ---
 
-### 💬 My Contract
+### My Contract
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kittipong.yusupap)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kit._p/)
